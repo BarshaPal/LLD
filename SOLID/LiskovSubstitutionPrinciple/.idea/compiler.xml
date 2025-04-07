@@ -6,15 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="OpenCloseprinciple" />
+        <module name="LiskovSubstitutionPrinciple" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="DependencyInversionPrinciple" target="1.8" />
-      <module name="InterfaceSegregationPrinciple" target="1.8" />
-      <module name="LiskovSubstitutionPrinciple" target="1.8" />
-      <module name="SingletonResponsibilityPrinciple" target="1.8" />
-      <module name="SOLID" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>

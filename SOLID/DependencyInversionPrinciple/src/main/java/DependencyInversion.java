@@ -51,7 +51,7 @@ class BirdProcessor {
 }
 
 // Test everything
-public class InterfaceExample {
+public class DependencyInversion {
     public static void main(String[] args) {
         BirdProcessor processor = new BirdProcessor();
 
